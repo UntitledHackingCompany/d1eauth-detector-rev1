@@ -15,3 +15,11 @@
   https://a.co/d/iPMlmj8
 - 1x WEMOS (LOLIN) S2 MINI
   https://a.co/d/6svzaMQ
+#### MATERIALS NEEDED:
+> FOR BREADBOARD VERSION
+- 1x WEMOS (LOLIN) D1 MINI
+  https://a.co/d/iPMlmj8
+- 1x WEMOS (LOLIN) S2 MINI
+  https://a.co/d/6svzaMQ
+- 2x Mini Breadboards + Wires
+  https://a.co/d/fKtaTWa
